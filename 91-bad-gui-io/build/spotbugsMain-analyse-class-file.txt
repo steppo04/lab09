@@ -1,0 +1,3 @@
+C:\Users\stefa\Desktop\Java\lab9\lab09\91-bad-gui-io\build\classes\java\main\it\unibo\mvc\BadIOGUI$1.class
+C:\Users\stefa\Desktop\Java\lab9\lab09\91-bad-gui-io\build\classes\java\main\it\unibo\mvc\BadIOGUI$2.class
+C:\Users\stefa\Desktop\Java\lab9\lab09\91-bad-gui-io\build\classes\java\main\it\unibo\mvc\BadIOGUI.class
